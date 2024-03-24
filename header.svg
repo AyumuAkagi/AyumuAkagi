@@ -22,7 +22,7 @@
                     font: bold 250% Consolas, Monaco,　 monospace;
                     border-right: .2em solid white;
                     width: 16.5em; 
-                    width: 21ch;
+                    width: 23ch;
                     margin: 0.05em 1.15em;
                     padding-top: 4px;
                     white-space: nowrap;
@@ -33,7 +33,7 @@
                 }
 			</style>
             <div class="container">
-                <h1>Welcome to AyumuAkagi</h1>
+                <h1>Welcome to AyumuAkagi&#x270C;</h1>
             </div>
 		</div>
 	</foreignObject>
