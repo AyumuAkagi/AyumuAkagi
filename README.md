@@ -1,3 +1,5 @@
+<img alt="AyumuAkagi" src="header.svg" width="98.2%" height="100%">
+
 # 💫 About Me:
 Hello! I am a Master's Candidate in Life and Medical Sciences.
 
