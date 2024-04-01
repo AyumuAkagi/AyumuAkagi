@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=AyumuAkagi&color=brightgreen&label=Visits"/>
 
 ## <p style="font-family: 'Meiryo', sans-serif">**Ayumu here🙋🏻‍♂️**</p>
-### <p style="font-family: 'Meiryo', sans-serif">　**Here is something you should know about me😄**</p> 
+### <p style="font-family: 'Meiryo', sans-serif">**Here is something you should know about me😄**</p> 
 <div style="background-color: white; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 5px;">
     <p style="font-family: 'Meiryo', sans-serif">Hello! I am a Master's Candidate in Life and Medical Sciences.  
     I have a passion for Data Analysis and solving problems in the medical field.<br>
@@ -20,7 +20,7 @@
     <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=AyumuAkagi&show_icons=true&theme=tokyonight">
     <img height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=AyumuAkagi&show_icons=true&theme=tokyonight"/>
     <img height="160" width="400" src='https://github-readme-stats.vercel.app/api/top-langs/?username=AyumuAkagi&show_icons=true&theme=tokyonight&layout=compact'/>
-    <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=AyumuAkagi&theme=react-dark"/>
+    <img height="320" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyumuAkagi&theme=tokyonight"/>
   <p>
 </details>
 
@@ -46,11 +46,11 @@
 
 ### <p style="font-family: 'Meiryo', sans-serif">**Connect with me🚀:**</p> 
 <p>
-  <a href="https://www.linkedin.com/in/ayumu-akagi/"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/master/Linkedin.png" height="30px" width="30px" alt="LinkedIn"></a>
-  <a href="mailto:ayumuakagi.job@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/master/Gmail.png" height="30px" width="30px" alt="Gmail" ></a>
+  <a href="https://www.linkedin.com/in/ayumu-akagi/"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/Linkedin.png" height="30px" width="30px" alt="LinkedIn"></a>
+  <a href="mailto:ayumuakagi.job@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/Gmail.png" height="30px" width="30px" alt="Gmail" ></a>
  
-  <a href="https://twitter.com/ayumu_akagi"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/master/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
-  <a href="https://www.instagram.com/a___m__713/"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/master/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
+  <a href="https://twitter.com/ayumu_akagi"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
+  <a href="https://www.instagram.com/a___m__713/"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
 </p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
