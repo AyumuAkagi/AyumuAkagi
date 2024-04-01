@@ -1,43 +1,58 @@
-<img alt="AyumuAkagi" src="header.svg" width="98.2%" height="100%">
+<h1 align="center">< Hello there 👨🏻‍💻👋/></h1>
+<img src="https://komarev.com/ghpvc/?username=AyumuAkagi&color=brightgreen&label=Visits"/>
 
-# 💫 About Me:
-Hello! I am a Master's Candidate in Life and Medical Sciences.
-
-I have a passion for Data Analysis and solving problems in the medical field. 
-
-Additionally, I have a great interest in machine learning and artificial intelligence, and I am actively studying them.
-
-
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ayumu_akagi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ayumu-akagi/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+## <p style="font-family: 'Meiryo', sans-serif">**Ayumu here🙋🏻‍♂️**</p>
+### <p style="font-family: 'Meiryo', sans-serif">　**Here is something you should know about me😄**</p> 
+<div style="background-color: white; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 5px;">
+    <p style="font-family: 'Meiryo', sans-serif">Hello! I am a Master's Candidate in Life and Medical Sciences.  
+    I have a passion for Data Analysis and solving problems in the medical field.<br>
+    Additionally, I have a great interest in machine learning and artificial intelligence, and I am actively studying them.</p>
+</div>
 
 
+<img align="right" src="https://github.com/vvHacker007/vvHacker007/blob/master/image.jpg" alt="computer" width="300"/>
+<br/>
 
-# 💻 Tech Stack:
+<details>
+  <summary>:zap: Github Stats</summary>
+  <br/>
+  <p>
+    <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=AyumuAkagi&show_icons=true&theme=tokyonight">
+    <img height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=AyumuAkagi&show_icons=true&theme=tokyonight"/>
+    <img height="160" width="400" src='https://github-readme-stats.vercel.app/api/top-langs/?username=AyumuAkagi&show_icons=true&theme=tokyonight&layout=compact'/>
+    <img height="320" width="800" src="https://activity-graph.herokuapp.com/graph?username=AyumuAkagi&theme=react-dark"/>
+  <p>
+</details>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### <p style="font-family: 'Meiryo', sans-serif">**Languages and tools⚙:**</p>  
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+<!-- Languages -->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+ <!-- Frameworks -->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png"></code>
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+ <!-- Cloud -->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<!-- CLI -->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> 
 
-# 📊 GitHub Stats:
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyumuAkagi&theme=dracula" /><br/>
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=AyumuAkagi&theme=dracula&hide_border=false" /><br/>
-<img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=AyumuAkagi&layout=compact&show_icons=true&theme=dracula" />
-<img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=AyumuAkagi&theme=dracula&show_icons=ture&count_private=true" />
+### <p style="font-family: 'Meiryo', sans-serif">**Connect with me🚀:**</p> 
+<p>
+  <a href="https://www.linkedin.com/in/ayumu-akagi/"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/master/Linkedin.png" height="30px" width="30px" alt="LinkedIn"></a>
+  <a href="mailto:ayumuakagi.job@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/master/Gmail.png" height="30px" width="30px" alt="Gmail" ></a>
+ 
+  <a href="https://twitter.com/ayumu_akagi"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/master/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
+  <a href="https://www.instagram.com/a___m__713/"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/master/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AyumuAkagi&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AyumuAkagi&limit=10&theme=dracula&combine_all_yearly_contributions=true&hide=B)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=AyumuAkagi&icon=0&color=0)](https://visitcount.itsvg.in)
-
+### <p style="font-family: 'Meiryo', sans-serif">Meanwhile feel free to check out my repositories✌!!</p> 
