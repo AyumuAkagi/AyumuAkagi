@@ -48,11 +48,8 @@
 <p>
   <a href="https://www.linkedin.com/in/ayumu-akagi/"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/Linkedin.png" height="30px" width="30px" alt="LinkedIn"></a>
   <a href="mailto:ayumuakagi.job@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/Gmail.png" height="30px" width="30px" alt="Gmail" ></a>
- 
   <a href="https://twitter.com/ayumu_akagi"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
   <a href="https://www.instagram.com/a___m__713/"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
 </p>
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ### <p style="font-family: 'Meiryo', sans-serif">Meanwhile feel free to check out my repositories✌!!</p> 
