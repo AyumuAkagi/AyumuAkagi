@@ -51,5 +51,6 @@
   <a href="https://twitter.com/ayumu_akagi"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
   <a href="https://www.instagram.com/a___m__713/"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
 </p>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ### <p style="font-family: 'Meiryo', sans-serif">Meanwhile feel free to check out my repositories✌!!</p> 
