@@ -1,58 +1,51 @@
-<h1 align="center">< Hello there 👨🏻‍💻👋/></h1>
-<img src="https://komarev.com/ghpvc/?username=AyumuAkagi&color=brightgreen&label=Visits"/>
+<h1 align="center" style="color: #2f81f7;">< Hello there 👨🏻‍💻👋/></h1>
 
-## <p style="font-family: 'Meiryo', sans-serif">**Ayumu here🙋🏻‍♂️**</p>
-### <p style="font-family: 'Meiryo', sans-serif">**Here is something you should know about me😄**</p> 
-<div style="background-color: white; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border-radius: 5px;">
-    <p style="font-family: 'Meiryo', sans-serif">Hello! I am a Master's Candidate in Life and Medical Sciences.  
-    I have a passion for Data Analysis and solving problems in the medical field.<br>
-    Additionally, I have a great interest in machine learning and artificial intelligence, and I am actively studying them.</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyumuAkagi&color=blue&style=flat-square&label=Visits" alt="Profile visits"/>
 </div>
 
+<div style="background-color: #161b22; color: #c9d1d9; padding: 20px; border-radius: 6px; margin-top: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-<img align="right" src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/image/image.jpg" alt="computer" width="300"/>
-<br/>
+  ## <span style="color: #2f81f7;">Ayumu here🙋🏻‍♂️</span>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <br/>
-  <p>
-    <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=AyumuAkagi&show_icons=true&theme=tokyonight">
-    <img height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=AyumuAkagi&show_icons=true&theme=tokyonight"/>
-    <img height="160" width="400" src='https://github-readme-stats.vercel.app/api/top-langs/?username=AyumuAkagi&show_icons=true&theme=tokyonight&layout=compact'/>
-    <img height="320" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyumuAkagi&theme=tokyonight"/>
-  <p>
-</details>
+  ### <span style="color: #58a6ff;">Here is something you should know about me😄</span>
 
-### <p style="font-family: 'Meiryo', sans-serif">**Languages and tools⚙:**</p>  
+  <div style="background-color: #21262d; padding: 15px; border-radius: 6px; margin-top: 10px;">
+    <p style="color: #e6edf3;">
+      Hello! I am a Master's Candidate in Life and Medical Sciences.<br>
+      I have a passion for Data Analysis and solving problems in the medical field.<br>
+      Additionally, I have a great interest in machine learning and artificial intelligence, and I am actively studying them.
+    </p>
+  </div>
 
-<!-- Languages -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
- <!-- Frameworks -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+  ### <span style="color: #58a6ff;">Languages and tools⚙:</span>
 
- <!-- Cloud -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<!-- CLI -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> 
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; background-color: #21262d; padding: 15px; border-radius: 6px;">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="Django">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux">
+  </div>
 
-### <p style="font-family: 'Meiryo', sans-serif">**Connect with me🚀:**</p> 
-<p>
-  <a href="https://www.linkedin.com/in/ayumu-akagi/"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/image/Linkedin.png" height="30px" width="30px" alt="LinkedIn"></a>
-  <a href="mailto:ayumuakagi.job@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/image/Gmail.png" height="30px" width="30px" alt="Gmail" ></a>
-  <a href="https://twitter.com/ayumu_akagi"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/image/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
-  <a href="https://www.instagram.com/a___m__713/"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/image/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
-</p>
+  ### <span style="color: #58a6ff;">Connect with me🚀:</span>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)  
-### <p style="font-family: 'Meiryo', sans-serif">Meanwhile feel free to check out my repositories✌!!</p> 
+  <div style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
+    <a href="https://www.linkedin.com/in/ayumu-akagi/"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/image/Linkedin.png" height="30px" width="30px" alt="LinkedIn"></a>
+    <a href="mailto:ayumuakagi.job@gmail.com?subject=Hello from your GitHub README&body=Message"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/image/Gmail.png" height="30px" width="30px" alt="Gmail"></a>
+    <a href="https://twitter.com/ayumu_akagi"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/image/Twitter.png" height="30px" width="30px" alt="Twitter"></a>
+    <a href="https://www.instagram.com/a___m__713/"><img src="https://github.com/AyumuAkagi/AyumuAkagi/blob/main/image/Instagram.png" height="30px" width="30px" alt="Instagram"></a>
+  </div>
+
+  ### <span style="color: #58a6ff;">Meanwhile feel free to check out my repositories✌!!</span>
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyumuAkagi/AyumuAkagi/main/img/snake-dark.svg">
